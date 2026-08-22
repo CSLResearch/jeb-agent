@@ -1,6 +1,5 @@
-# (unsafe) Reverse Engineering with Code Evaluation and the JEB Pro API
+# Reverse Engineering with Code Evaluation and the JEB Pro API
 
-> warning: this plugin generates and evaluates code on the current system, so it should only be used in a sandboxed environment.
 
 Analyze binaries using JEB Pro's Python API in headless mode. Use when examining program structure, functions,
 disassembly, cross-references, decompilation (native C / Dalvik Java / WASM), or strings without the GUI.
